@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "430418",
+        "name": "苏轴股份",
+        "left": -10.99,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "836077",
+        "name": "吉林碳谷",
+        "left": -10.969999999999999,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "838227",
+        "name": "美登科技",
+        "left": -9.290000000000001,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "920082",
+        "name": "方正阀门",
+        "left": -8.22,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "837821",
+        "name": "则成电子",
+        "left": -7.7,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "838971",
+        "name": "天马新材",
+        "left": -7.53,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "839946",
+        "name": "华阳变速",
+        "left": -7.1899999999999995,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "920799",
+        "name": "艾融软件",
+        "left": -6.52,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "920016",
+        "name": "中草香料",
+        "left": -6.220000000000001,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "870726",
+        "name": "鸿智科技",
+        "left": -5.3100000000000005,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "831855",
+        "name": "浙江大农",
+        "left": -3.9800000000000004,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "920118",
+        "name": "太湖远大",
+        "left": -3.0299999999999994,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "837046",
+        "name": "亿能电力",
+        "left": -2.75,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "832802",
+        "name": "保丽洁",
+        "left": -2.56,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "920111",
+        "name": "聚星科技",
+        "left": -2.1900000000000004,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "920029",
+        "name": "开发科技",
+        "left": -1.9900000000000002,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "920019",
+        "name": "铜冠矿建",
+        "left": -1.6700000000000002,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "430718",
+        "name": "合肥高科",
+        "left": -1.5,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "920066",
+        "name": "科拜尔",
+        "left": -1.4500000000000002,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "920060",
+        "name": "万源通",
+        "left": -0.44999999999999973,
+        "unit": 1,
+        "enable": true,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "836699",
+        "name": "海达尔",
+        "left": -0.2600000000000007,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    },
+    {
+        "symbol": "833346",
+        "name": "威贸电子",
+        "left": 11.06,
+        "unit": 1,
+        "enable": false,
+        "manual_buy": 0
+    }
+]
